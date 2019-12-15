@@ -14,7 +14,7 @@
    or you can edit the following line and set a number here.
 */
 #define BLINK_GPIO 26
-#define BLINK_DELAY 100
+#define BLINK_DELAY 200
 
 void app_main(void)
 {
