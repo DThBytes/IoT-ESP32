@@ -1,6 +1,6 @@
 #include <Arduino.h>
 #define LED 26
-#define DELAY 34
+#define DELAY 360
 
 void setup() {
   pinMode(LED, OUTPUT);
