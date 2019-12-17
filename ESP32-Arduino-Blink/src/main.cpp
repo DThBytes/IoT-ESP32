@@ -1,6 +1,7 @@
 #include <Arduino.h>
+#include <SPI.h>   // for OLED display
 #define LED 26
-#define DELAY 300
+#define DELAY 500
 
 void setup() {
   pinMode(LED, OUTPUT);
